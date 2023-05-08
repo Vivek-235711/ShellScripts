@@ -1,0 +1,16 @@
+#!/bin/bash
+#This script is to read input from the user/console
+echo "Value of a"
+read a
+echo "Value of b"
+read b
+echo "Hello value of a is $a and value of b is $b"
+echo "This is note change"
+echo "Hi"
+echo "Bye"
+echo "Value of c"
+read c
+echo "Value of d"
+read d
+echo "Value of e"
+read e
