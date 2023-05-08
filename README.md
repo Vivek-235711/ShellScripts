@@ -1,2 +1,14 @@
-# ShellScript
-Beginners Level
+#!/bin/bash
+#This is my 1st shell script to print output
+echo "Hello Guys, Welcome to AWS/Devops"
+echo "Hello, How are you Guys?"
+echo "Welcome to the V-keys World"
+echo "Learn with me DevOps"
+echo "How to manage Azure/AWS"
+echo "Learn new Tools"
+echo "Manage all your account with AWS"
+echo "Fun learning with V-Keys"
+echo "Master with Kubernetis"
+echo "Master with Jenkins"
+echo "This is Batch-18"
+echo "End of the class"
