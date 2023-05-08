@@ -12,3 +12,4 @@ echo "Master with Kubernetis"
 echo "Master with Jenkins"
 echo "This is Batch-18"
 echo "End of the class"
+echo
